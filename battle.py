@@ -10,7 +10,7 @@ Bulbasaur wins in 2 moves (15 HP remaining)
 >>> battle(Bulbasaur(),  Charmander())
 Charmander wins in 2 moves (10 HP remaining)
 
->>> battle(Charmander(),  Ratatta())
+>>> battle(Charmander(),  Rattata())
 Charmander wins in 3 moves (12 HP remaining)
 
 >>> battle(Charizard(),  Venusaur())
