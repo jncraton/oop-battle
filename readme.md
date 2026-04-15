@@ -1,9 +1,24 @@
 OOP Battle
 ==========
 
-This project is a Pokemon battle simulator demonstrating OOP principles. There are two base classes with several children as shown in the following UML diagram:
+A Pokemon battle simulator demonstrating OOP principles.
+
+## Learning Outcomes
+
+After completing this lab, learners will be able to:
+
+1. Model inheritance and polymorphism using classes and subclasses
+2. Implement method overriding and specialized behavior in child classes
+3. Apply conditional logic to modify interactions between object types
+4. Use automated tests to verify object-oriented design and behavior
+
+## Overview
+
+There are two base classes with several children as shown in the following UML diagram:
 
 ![UML](uml.svg)
+
+## Tasks
 
 The current implementation is incomplete. You should extend it to include the following:
 
